@@ -1,5 +1,6 @@
 # Aim
 To learn about arithmetic, logical, miscelleaneous and assignment operators on c++.
+
 # Software Used
 VS Code
 
@@ -71,6 +72,9 @@ int main(){
     return 0;
 }
 ```
+
+# Output:
+ 
 
 # Conclusion
 We learnt to use different operator in c++.
