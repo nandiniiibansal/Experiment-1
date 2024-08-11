@@ -204,5 +204,35 @@ return 0;
 }
 ```
 
+# Output:
+1.) 6a_abcd
+![image](https://github.com/user-attachments/assets/3a987d89-386e-4847-b493-96bfac1d6741)
+
+2.)
+![image](https://github.com/user-attachments/assets/0897b1ab-cc64-4021-a391-d610c5a94763)
+
+3.)
+![image](https://github.com/user-attachments/assets/f0929216-fc9c-4f09-ab12-af7efb281b5c)
+
+4.)
+![image](https://github.com/user-attachments/assets/4e32966a-4f82-4f94-8e74-eb30c8ab8ff3)
+
+5.)
+![image](https://github.com/user-attachments/assets/d7c9f3bc-f480-483c-8cd9-5a554a9c976f)
+
+6.)
+![image](https://github.com/user-attachments/assets/c74e9ad5-ce3c-460a-9b01-718d80d3e66f)
+
+7.)
+![image](https://github.com/user-attachments/assets/2cd22afb-b7f9-4ea8-86ee-37beba930f9e)
+
+8.)
+![image](https://github.com/user-attachments/assets/b7507ff8-6e56-4b17-9199-e0df22062bfe)
+
+9.)
+![image](https://github.com/user-attachments/assets/17db255a-ad5e-4086-86ba-bd7794a89408)
+
+
+
 # Conclusion
 We learnt to use for loop, while loop and nested for loop.
