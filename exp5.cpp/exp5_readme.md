@@ -205,5 +205,25 @@ int main()
 
 ```
 
+# Output:
+1.) 5a_grades
+
+![image](https://github.com/user-attachments/assets/1df0b8e2-e9c7-4342-b4c3-cfca9ddb9ac7)
+
+2.) 5b_leapyear
+
+![image](https://github.com/user-attachments/assets/460e6007-11cf-4cc1-a37a-12c899c36ef5)
+
+3.) 5c_pass
+
+![image](https://github.com/user-attachments/assets/b72c8af6-7945-4260-a193-d95472369ccf)
+
+4.)
+
+![image](https://github.com/user-attachments/assets/c1d422f2-0fa5-4f13-8a49-d94ecf8de0b0)
+
+
+
+
 # Conclusion
 We learnt to use if statements and switch in c++.
