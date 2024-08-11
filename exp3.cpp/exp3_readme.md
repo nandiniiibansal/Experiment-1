@@ -74,7 +74,19 @@ int main(){
 ```
 
 # Output:
- 
+ 1.) 3a_equality
+ ![image](https://github.com/user-attachments/assets/0f21adad-7bc6-47c2-ad32-94858e69b26a)
+
+ 2.) 3b_boolean
+![image](https://github.com/user-attachments/assets/b76d9a1a-a3c3-4d18-8b3c-537007b25e56)
+
+3.) 3c_inequality
+![image](https://github.com/user-attachments/assets/2aea7a74-8de1-4975-8994-be4d629db94e)
+
+4.) 3d_operations
+
+![image](https://github.com/user-attachments/assets/b6c81d07-deb3-4ed7-ace5-35f175925a5c)
+
 
 # Conclusion
 We learnt to use different operator in c++.
