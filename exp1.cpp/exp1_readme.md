@@ -66,6 +66,16 @@ int main()
     return 0;
 }
 ```
+# Output:
+1.) 1a_helloworld
+![image](https://github.com/user-attachments/assets/599d8191-8b35-421a-be37-4b3ff6d2839c)
+2.) 1b_calci
+![image](https://github.com/user-attachments/assets/97de8669-a80f-4545-bb11-121f0786a55c)
+3.) 1c_userinput
+![image](https://github.com/user-attachments/assets/c07d5118-c789-49a6-aeb3-e02cac75c595)
+
+
+
 
 # Conclusion
 We learnt how to take input from user and print it, we learnt to use basic operators like +, - , * and /.
