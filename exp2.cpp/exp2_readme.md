@@ -51,6 +51,11 @@ staticExample();
 return 0;
 }
 ```
+# Output:
+1.) 2a_sizeof
+![image](https://github.com/user-attachments/assets/c7c80e25-72df-44c0-8c2e-f603fe54bad0)
+2.) 2b_static
+![image](https://github.com/user-attachments/assets/8b863fb0-efd2-4523-be8a-cde1efd84a55)
 
 # Conclusion
 We learnt to use _'size of'_ function & static class.
