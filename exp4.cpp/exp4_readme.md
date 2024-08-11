@@ -31,6 +31,10 @@ int main()
     return 0;
 }
 ```
+# Output:
+1.) 4a_bitwise
+
+![image](https://github.com/user-attachments/assets/9bff69fb-1945-4e4b-b288-e5685c451591)
 
 # Conclusion
 We learnt to use different bitwise operators in c++.
