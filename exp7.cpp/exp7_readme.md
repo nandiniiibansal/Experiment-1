@@ -160,6 +160,23 @@ return 0;
 
 ```
 
+# Outputs:
+1.) 
+![image](https://github.com/user-attachments/assets/3c05a727-2a8b-4e88-ab30-28abc29b28cd)
+
+2.) 
+![image](https://github.com/user-attachments/assets/f0930aa6-6a0a-48de-8802-2743d54b6d57)
+
+3.) 
+![image](https://github.com/user-attachments/assets/d9618686-d8a8-4690-99f2-155f5bb2e7d6)
+
+4.) 
+![image](https://github.com/user-attachments/assets/2bdb2ac1-bca4-43c1-9146-51e1423e6f27)
+
+5.) 
+![image](https://github.com/user-attachments/assets/8ee958b5-5057-4ddd-aa90-a06cfb3aade8)
+
+
 # Conclusion
 
 We learnt to create an array and operate it. 
