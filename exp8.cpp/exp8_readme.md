@@ -72,6 +72,36 @@ int main()
     else cout<<"No! It is not a palindrome";
 }
 
+// Matrices with user input
+#include<iostream>
+using namespace std;
+int main()
+{
+    int r,c , i , j;
+    cout<< " Enter number of rows: ";
+    cin>> r ;
+    cout<<" Enter number of columns: ";
+    cin>> c;
+    int arr[r][c];
+    for (i=0 ; i < r ; i++)
+    {
+        for(j = 0 ; j < c ; j++)
+        {
+            cout<< "Enter elements ("<<i<< "," <<j<<"): "  ;
+            cin>>arr[i][j];
+        }
+    }
+for (i=0 ; i<r ; i++)
+{
+    for(j = 0; j< c ; j++ )
+    { 
+        cout<< " "<< arr[i][j];
+    }
+    cout<<endl;
+}
+}
+
+
 # Output:
 1. Printing a string
 ![image](https://github.com/user-attachments/assets/c7449883-9bc6-4126-8f1e-d8e1b9501b43)
@@ -81,6 +111,8 @@ int main()
 ![image](https://github.com/user-attachments/assets/e4bb279a-f091-4010-be6a-0cf6bac6c902)
 4. Palindrome
 ![image](https://github.com/user-attachments/assets/48c86c43-3bf0-4cf6-bb8a-27ed562d2d62)
+5. Matrices with user input
+![image](https://github.com/user-attachments/assets/1a709e8c-90ec-4d5a-9176-76682e65fd41)
 
 # Conclusion:
 String operations like printing, concatenating, reversing and checking palindrome in C++ are fundamental tasks that demonstrate
