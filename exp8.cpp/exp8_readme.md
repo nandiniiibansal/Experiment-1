@@ -21,6 +21,7 @@ A palindrome is a word or phrase that remains the same when the characters are r
 string with the reversed string.
 
 # Program Code:
+``` javascript
 //Printing the string
 #include <iostream>
 using namespace std;
@@ -101,6 +102,7 @@ for (i=0 ; i<r ; i++)
 }
 }
 
+```
 
 # Output:
 1. Printing a string
