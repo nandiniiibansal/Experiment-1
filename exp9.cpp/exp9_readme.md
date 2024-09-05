@@ -119,3 +119,17 @@ int main()
 ```
 
 # Output:
+1) ![image](https://github.com/user-attachments/assets/7245ff59-9b99-4a35-8379-aa839a3574a3)
+
+2) ![image](https://github.com/user-attachments/assets/6bd6409d-abb0-433c-932b-cdc5afc911ac)
+
+3) ![image](https://github.com/user-attachments/assets/701eaf3d-1313-43f1-9eb0-6c3736084c9e)
+
+4) ![image](https://github.com/user-attachments/assets/4ae9f407-4f64-42b2-84dc-4da0e87fec44)
+
+5) ![image](https://github.com/user-attachments/assets/948d67cc-625f-46ef-923d-8852cd844142)
+
+
+# Conclusion:
+We learnt to initialize pointers of different data types.
+We learnt to access elements of array using pointers and without pointers variable.
