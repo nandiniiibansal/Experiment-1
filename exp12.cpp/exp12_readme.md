@@ -58,6 +58,7 @@ int main() {
     return 0;
 }
 
+
 //COPY CONSTRUCTOR
 #include<iostream>
 using namespace std;
@@ -80,6 +81,32 @@ int main(){
     MyClass obj2 = obj1 ;
     return 0;
     }
+
+// DEFAULT ARGUMENT
+#include<iostream>
+using namespace std;
+class MyClass{
+    private:
+    int value1;
+    int value2;
+    string str1;
+    public:
+    
+    MyClass( int val1= 0, int val2= 0, string a = "none"){
+        str1 = a;
+        value1= val1;
+        value2 = val2;
+        cout<<str1<<" played "<<value1<<" ODI matches."<<endl;
+        cout<<"He scored "<< value2 << " centuries."<<endl;
+
+    }
+};
+int main()
+{
+   
+    MyClass obj1(463,49, "Sachin");
+    return 0;
+    }
 ```
 
 
@@ -91,7 +118,8 @@ int main(){
 ![image](https://github.com/user-attachments/assets/bea91abe-44be-4d37-b09d-c8e2adcd1a05)
 3) Copy constructor
  ![image](https://github.com/user-attachments/assets/a78024bd-cb36-4339-b365-85fa70369788)
-4) 
+4) Constructor with Default argument
+![image](https://github.com/user-attachments/assets/9a2b6741-854c-4629-bb92-5fe038c7ff14)
 
 
 # Conclusion:
