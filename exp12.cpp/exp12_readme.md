@@ -1,10 +1,13 @@
 # AIM
+
 To learn about costructor and destroctor in c++.
 
 # Software Used
+
 VS Code
 
 # Problem Statement
+
 1.) Write a c++ program to define constructor.
 
 # Theory
@@ -81,6 +84,7 @@ int main(){
 
 
 # Output:
+
 1) Defining constructor
 ![image](https://github.com/user-attachments/assets/80c70081-c103-456c-92da-c21320810033)
 2) Parameterized constructor
@@ -88,3 +92,8 @@ int main(){
 3) Copy constructor
  ![image](https://github.com/user-attachments/assets/a78024bd-cb36-4339-b365-85fa70369788)
 4) 
+
+
+# Conclusion:
+
+We learnt to define constructor, prameterized constructor, copy constructor
