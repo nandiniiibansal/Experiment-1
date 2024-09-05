@@ -208,8 +208,8 @@ int main() {
 ![image](https://github.com/user-attachments/assets/e4bb279a-f091-4010-be6a-0cf6bac6c902)
 4. Palindrome
 ![image](https://github.com/user-attachments/assets/48c86c43-3bf0-4cf6-bb8a-27ed562d2d62)
-5. Matrices with user input
-![image](https://github.com/user-attachments/assets/1a709e8c-90ec-4d5a-9176-76682e65fd41)
+5. Matrices 
+![image](https://github.com/user-attachments/assets/d3fc6400-8511-4027-bb3f-cc19c1ac1ddd)
 6. Addition and Subtraction with user input matrices
 ![image](https://github.com/user-attachments/assets/55cd1745-9509-4834-b085-34c25c618319)
 
