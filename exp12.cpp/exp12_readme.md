@@ -9,6 +9,9 @@ VS Code
 # Problem Statement
 
 1.) Write a c++ program to define constructor.
+2.) Write a c++ program using parameterized constructior.
+3.) Write a c++ program using copy constructor.
+4.) Write a c++ program for default argument.
 
 # Theory
 
@@ -107,6 +110,8 @@ int main()
     MyClass obj1(463,49, "Sachin");
     return 0;
     }
+
+//
 ```
 
 
