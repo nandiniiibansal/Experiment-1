@@ -24,6 +24,7 @@ Like a constructor, Destructor is also a member function of a class that has the
 # Problem Codes
 
 ```javascript
+
 //DEFINE CONSTRUCTOR.
 #include<iostream>
 using namespace std;
@@ -42,6 +43,7 @@ int main(){
     MyClass obj;
     return 0;
 }
+
 
 //PARAMETERIZED CONSTRUCTOR
 #include<iostream>
@@ -85,6 +87,7 @@ int main(){
     return 0;
     }
 
+
 // DEFAULT ARGUMENT
 #include<iostream>
 using namespace std;
@@ -110,6 +113,7 @@ int main()
     MyClass obj1(463,49, "Sachin");
     return 0;
     }
+
 
 // AREA OF RECTANGLE
 #include<iostream>
@@ -146,6 +150,11 @@ int main(){
 
     return 0;
 }
+
+
+// DESTRUCTOR
+
+
 ```
 
 
@@ -161,9 +170,9 @@ int main(){
 ![image](https://github.com/user-attachments/assets/0c954910-178f-4637-b8ed-0fb88ad7bdb2)
 5) Area Of Rectangle
 ![image](https://github.com/user-attachments/assets/65a7b82a-7f29-4ce3-a017-64654de20717)
-6) 
+6) Destructor
 
 
 # Conclusion:
 
-We learnt to define constructor, prameterized constructor, copy constructor
+We learnt to define constructor, prameterized constructor, copy constructor, default arguments, calculating area of rectangle using constructors and defining destructor.
