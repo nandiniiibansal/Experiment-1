@@ -111,7 +111,41 @@ int main()
     return 0;
     }
 
-//
+// AREA OF RECTANGLE
+#include<iostream>
+using namespace std;
+class MyClass{
+    private:
+    int l;
+    int b;
+
+
+
+    public:
+int s,w;
+void getinput()
+         { 
+            cout<<"Enter length and breadth"<<endl;
+            cin>>s>>w;
+         }
+
+         void display()
+         { int a;
+         l=s;
+         b=w;
+    
+            a = l*b;
+         cout<<"Area of rectangle is: "<< a<< endl;
+         }
+};
+int main(){
+    
+    MyClass obj1;
+    obj1.getinput();
+    obj1.display();
+
+    return 0;
+}
 ```
 
 
@@ -124,7 +158,10 @@ int main()
 3) Copy constructor
  ![image](https://github.com/user-attachments/assets/a78024bd-cb36-4339-b365-85fa70369788)
 4) Constructor with Default argument
-![image](https://github.com/user-attachments/assets/9a2b6741-854c-4629-bb92-5fe038c7ff14)
+![image](https://github.com/user-attachments/assets/0c954910-178f-4637-b8ed-0fb88ad7bdb2)
+5) Area Of Rectangle
+![image](https://github.com/user-attachments/assets/65a7b82a-7f29-4ce3-a017-64654de20717)
+6) 
 
 
 # Conclusion:
