@@ -14,6 +14,7 @@ VS Code
 4.) Write a c++ program for default argument.
 5.) Write a c++ program to calculate area of rectangle using class.
 6.)Write a c++ program using deconstructor
+
 # Theory
 
 Constructor: 
@@ -188,6 +189,7 @@ class MyClass{
 5) Area Of Rectangle
 ![image](https://github.com/user-attachments/assets/65a7b82a-7f29-4ce3-a017-64654de20717)
 6) Destructor
+
 ![image](https://github.com/user-attachments/assets/9db41312-5abb-469b-b502-cdbcc3deb53c)
 
 
