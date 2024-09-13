@@ -142,6 +142,7 @@ int main() {
 1.) Single Inheritance
 ![image](https://github.com/user-attachments/assets/3f0e7eaa-f945-4a46-a3e5-61689cc22f97)
 2.) Multiple Inheritance
+
 ![image](https://github.com/user-attachments/assets/fca46f58-97ac-403d-98c6-fcea9595c950)
 3.) Multilevel Inheritance
 ![image](https://github.com/user-attachments/assets/b91fafa4-5807-4b9a-9600-f58a583e333c)
