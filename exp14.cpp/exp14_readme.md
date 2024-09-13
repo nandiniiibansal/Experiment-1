@@ -5,6 +5,7 @@ To learn about inheritance and its types in c++.
 VS Code
 
 # Theory
+The capability of a class to derive properties and characteristics from another class is called Inheritance. Inheritance is one of the most important features of Object Oriented Programming in C++. In this article, we will learn about inheritance in C++, its modes and types along with the information about how it affects different properties of the class.
 
 # Problem code
 ``` javascript
