@@ -99,7 +99,44 @@ Student {
         d.research();
     return 0;
     }
+
+// HIERARCHIAL INHERITACE
+#include<iostream>
+using namespace std;
+// base class
+class Animal {
+public:
+    void eat() {
+        cout<<"Animal is eating"<<endl;
+    }
+
+};
+// derived class
+class Dog : public Animal {
+    public:
+        void bark() {
+            cout<<"Dog is barking"<<endl;
+        }
+};
+//derived class 2
+class Cat : public Animal {
+    public:
+        void meow() {
+            cout<<"Cat is meowing"<<endl;
+        }
+};
+int main() {
+    Dog d;
+    Cat c;
+    d.eat(); // Inherited from Animal
+    d.bark(); // Method of Dog class
+    c.eat(); // Inherited from Animal
+    c.meow(); //Method of Cat Class
+    return 0;
+}
+
 ```
+
 
 # Output
 1.) Single Inheritance
@@ -108,6 +145,9 @@ Student {
 ![image](https://github.com/user-attachments/assets/fca46f58-97ac-403d-98c6-fcea9595c950)
 3.) Multilevel Inheritance
 ![image](https://github.com/user-attachments/assets/b91fafa4-5807-4b9a-9600-f58a583e333c)
+4.) Hierarchial inheritance
+![image](https://github.com/user-attachments/assets/e1cd77e9-a626-408f-a862-560f89adf6dd)
+
 
 # Conclusion
-We learnt about single and multiple inheritance.
+We learnt about single, multiple, multilevel and hierarchial inheritance.
